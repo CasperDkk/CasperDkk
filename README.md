@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Daniel Kamau
-I'm a results-driven developer passionate about solving global challenges by building scalable web applications and cloud-based solutions.
+A results-driven developer passionate about solving global challenges by building scalable web applications and cloud-based solutions.
 
 ### :man_technologist: About Me:
 - Full Stack Development
