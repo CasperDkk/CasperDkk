@@ -1,12 +1,13 @@
 ## 👋 Hi, I'm Daniel Kamau
-Full Stack Developer | Cloud Solutions Architect | Technical Writer
-Welcome to my GitHub profile! I'm a results-driven developer passionate about building scalable web applications and cloud-based solutions. With hands-on experience in Full Stack Development and Cloud Architecture, I leverage modern technologies to deliver high-performance solutions that meet real-world needs.
+I'm a results-driven developer passionate about solving global challenges by building scalable web applications and cloud-based solutions.
 
 ### :man_technologist: About Me:
 - Full Stack Development
 - Cloud Architecture (AWS, Oracle Cloud)
 - DevOps practices and automation
-- Technical Writing & Content Creation
+- Technical Writing 
+- Currently learning Dart and Flutter.
+- Sharpening my skills through the Power Learn project
   
 #### 💼 What I Do
 Full Stack Development: Crafting end-to-end solutions, from designing RESTful APIs to building dynamic frontends.
