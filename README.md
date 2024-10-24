@@ -18,32 +18,32 @@ Technical Writing: Publishing guides and technical documentation to make complex
 
 ## 🔧 My Tech Stack
   # Languages & Frameworks:
-HTML | CSS | JavaScript | React
-Node.js | Express.js | Python
-Dart | Flutter
+- HTML | CSS | JavaScript | React
+- Node.js | Express.js | Python
+- Dart | Flutter
 
   # Cloud Technologies:
-AWS Services (EC2, S3, RDS, IAM)
-Oracle Cloud Infrastructure
-Terraform
+- AWS Services (EC2, S3, RDS, IAM)
+- Oracle Cloud Infrastructure
+- Terraform
 
   # Databases & APIs:
-MySQL | API Development & Testing (Postman)
+- MySQL | API Development & Testing (Postman)
 
   # DevOps:
-Linux Server Administration | Git Version Control
+- Linux Server Administration | Git Version Control
 
 ## 📈 Stats & Achievements
-95% client satisfaction rate as a freelance full stack developer.
-Authored over 30 technical articles that boosted organic search traffic by 40%.
-Maintained 99.9% uptime for AWS-hosted applications.
-Implemented APIs that improved application efficiency by 20%.
+- 95% client satisfaction rate as a freelance full stack developer.
+- Authored over 30 technical articles that boosted organic search traffic by 40%.
+- Maintained 99.9% uptime for AWS-hosted applications.
+- Implemented APIs that improved application efficiency by 20%.
 
 ## 💬 Ask me about...
-Full Stack Development
-Cloud Architecture (AWS, Oracle Cloud)
-DevOps practices and automation
-Technical Writing & Content Creation
+- Full Stack Development
+- Cloud Architecture (AWS, Oracle Cloud)
+- DevOps practices and automation
+- Technical Writing & Content Creation
 
 ## ⚡ Fun fact:
 I love playing the guitar and enjoy reading books on Philosophy. I'm also currently learning Russian as a new language!
@@ -51,9 +51,8 @@ I love playing the guitar and enjoy reading books on Philosophy. I'm also curren
 ## 🌍 Let's Connect!
 I’m always open to new opportunities and collaborations. Feel free to reach out!
 
-Email: daniel.kamau8@gmail.com
-LinkedIn: Daniel K Kamau
-GitHub: CasperDkk
+- Email: daniel.kamau8@gmail.com
+- LinkedIn: [Daniel K Kamau](https://www.linkedin.com/in/danielkkamau/)
 
 
 ## 😊 Looking forward to building something great together.
