@@ -39,7 +39,7 @@ Technical Writing: Publishing guides and technical documentation to make complex
 - Maintained 99.9% uptime for AWS-hosted applications.
 - Implemented APIs that improved application efficiency by 20%.
 
-### 💬 Ask me about...
+### 💬 Ask me about... ### :man_technologist: About Me:
 - Full Stack Development
 - Cloud Architecture (AWS, Oracle Cloud)
 - DevOps practices and automation
