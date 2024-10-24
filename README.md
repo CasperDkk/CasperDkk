@@ -9,12 +9,6 @@ A results-driven developer passionate about solving global challenges by buildin
 - Currently learning Dart and Flutter.
 - Sharpening my skills through the Power Learn project
   
-#### 💼 What I Do
-Full Stack Development: Crafting end-to-end solutions, from designing RESTful APIs to building dynamic frontends.
-Cloud Architecture: Deploying applications in the cloud using AWS (EC2, S3, RDS) for high availability and performance.
-DevOps & Version Control: Administering Linux servers and using Git for source code management to maintain clean, bug-free codebases.
-Technical Writing: Publishing guides and technical documentation to make complex topics easy to understand.
-
 ### 🔧 My Tech Stack
 ### Languages & Frameworks:
 - HTML | CSS | JavaScript | React
