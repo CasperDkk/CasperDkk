@@ -3,9 +3,9 @@
 </div>
 <div align="center"> <a href="https://www.linkedin.com/in/danielkkamau/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> </div>
 <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=CasperDkk.CasperDkk&" /> </div>
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 <h3 align="left">👨‍💻 About Me</h3>
-<p align="left">I'm Daniel Kamau, a results-driven developer from Nairobi, Kenya.<br><br>- 🔭 I’m currently working on developing scalable web applications and cloud-based solutions.<br>- 📚 I'm currently learning Dart and Flutter to expand my tech stack.<br>- ⚡ In my free time, I enjoy reading philosophical books, playing the guitar, and exploring new places.</p>
+<p align="left">I'm a results-driven developer from Nairobi, Kenya.<br><br>- 🔭 I’m currently working on developing scalable web applications and cloud-based solutions.<br>- 📚 I'm currently learning Dart and Flutter to expand my tech stack.<br>- ⚡ In my free time, I enjoy reading philosophical books, playing the guitar, and exploring new places.</p>
 <h3 align="left">🛠 Languages and Tools</h3>
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" /> <img width="12" /> <img 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap logo" /> <img width="12" />
